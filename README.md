@@ -39,29 +39,6 @@ Node.js and npm installed
 Installation
 Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/your-repo-name.git
-Navigate to the project folder:
-
-bash
-Copy
-Edit
-cd your-repo-name
-Install dependencies:
-
-bash
-Copy
-Edit
-npm install
-Start the development server:
-
-bash
-Copy
-Edit
-npm start
-Open http://localhost:3000 to view it in your browser.
 
 🗂️ Project Structure
 bash
